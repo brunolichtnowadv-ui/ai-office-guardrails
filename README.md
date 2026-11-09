@@ -2,7 +2,7 @@
 
 **Five rules for delegating real professional work to an AI assistant without losing control: what it may do alone, what it must never obey (an anti-prompt-injection protocol), what it must log, how it resumes, and how it reads documents.**
 
-[Português](README.pt-BR.md) · Related: [No Fake Quotes](https://github.com/brunolichtnowadv-ui/no-fake-quotes) · [Risk-Floor Model Routing](https://github.com/brunolichtnowadv-ui/risk-floor-model-routing) · [No Orphan Tabs](https://github.com/brunolichtnowadv-ui/no-orphan-tabs)
+[Português](README.pt-BR.md) · Related: [No Fake Quotes](https://github.com/brunolichtnowadv-ui/no-fake-quotes) · [Risk-Floor Model Routing](https://github.com/brunolichtnowadv-ui/risk-floor-model-routing) · [No Orphan Tabs](https://github.com/brunolichtnowadv-ui/no-orphan-tabs) · [PDF Triage](https://github.com/brunolichtnowadv-ui/pdf-triage)
 
 ---
 
