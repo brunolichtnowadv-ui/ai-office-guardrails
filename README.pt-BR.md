@@ -2,7 +2,7 @@
 
 **Cinco regras para delegar trabalho profissional de verdade a um assistente de IA sem perder o controle: o que ele pode fazer sozinho, o que ele nunca deve obedecer (um protocolo anti-prompt injection), o que deve registrar, como retoma o trabalho e como lê documentos.**
 
-[English](README.md) · Relacionados: [No Fake Quotes](https://github.com/brunolichtnowadv-ui/no-fake-quotes) · [Risk-Floor Model Routing](https://github.com/brunolichtnowadv-ui/risk-floor-model-routing) · [No Orphan Tabs](https://github.com/brunolichtnowadv-ui/no-orphan-tabs)
+[English](README.md) · Relacionados: [No Fake Quotes](https://github.com/brunolichtnowadv-ui/no-fake-quotes) · [Risk-Floor Model Routing](https://github.com/brunolichtnowadv-ui/risk-floor-model-routing) · [No Orphan Tabs](https://github.com/brunolichtnowadv-ui/no-orphan-tabs) · [PDF Triage](https://github.com/brunolichtnowadv-ui/pdf-triage)
 
 ---
 
